@@ -1,0 +1,2 @@
+# minihome
+Static Homepagegenerator
